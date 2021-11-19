@@ -1,3 +1,11 @@
 # alkemy-warmup-challenge
-API para blog con Node y Express. Persistencia en base de datos MySQL con Sequelize<br/>
-Endpoints test: alkemy-warmup-challenge.postman_collection.json
+
+Blog API with Node and Express.<br/>
+Data persistence with MySQL database and Sequelize.
+
+## Model
+Association One-to-Many<br/><br/>
+![db](https://user-images.githubusercontent.com/78446973/142629827-604b64bf-154b-4655-aefc-80bba149301a.jpg)<br/><br/>
+
+## Postman documentation
+https://documenter.getpostman.com/view/17147376/UVJWoz1M
